@@ -19,7 +19,7 @@
   -->
 
 <h1 align="center"><b> Joel Moran | Desarrollador de Software </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J3cDQya2oydjlqbzJ4b3NlZTZmMjVjcmo3cjAyd2ZsaHh6ZTAybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1AviNqe7qnuipvq8Pq/giphy.gif" width="50"></h1>
-<!-- <img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xmOXV0dzFiNjF0aTh6Z3VkdjZ6Y3BwejVvb2N3NW56ams3YnAyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" /> -->
+
 <img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZsZGxtYmNwYjBpMWtsYjNsZ2twd2lnaWdlcTFoZTYzNnhoZTB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
@@ -79,6 +79,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=ChiqoGamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ChiqoGamer)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight)](https://github.com/ChiqoGamer)
 </div>
