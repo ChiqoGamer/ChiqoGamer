@@ -16,7 +16,7 @@
 * Programas de consola con fines educativos en C++🔵
 * Scripts en PowerShell para automatizar procesos.
 ---
-  -->
+ <!-- -->
 
 <h1 align="center"><b> Joel Moran | Desarrollador de Software </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J3cDQya2oydjlqbzJ4b3NlZTZmMjVjcmo3cjAyd2ZsaHh6ZTAybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1AviNqe7qnuipvq8Pq/giphy.gif" width="50"></h1>
 
@@ -45,21 +45,22 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-%235C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </span>
-
 <!--h1 without bottom border-->
 
+<!-- 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-</div>
+</div> -->
 <!--tech stack icons-->
-
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,c,java,mysql,git,github,vscode,visualstudio,dotnet,discord,figma,linux&perline=14" />
   </a>
 </p>
+-->
 
 
 
