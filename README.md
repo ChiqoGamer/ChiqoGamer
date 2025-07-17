@@ -98,6 +98,13 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2>GitHub Stats</h2>
 
 <p align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 100px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChiqoGamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight" />
+  </div>
+</p>
+
+<!--<p align="center">
   <table cellspacing="0" cellpadding="0" style="border: none; table-layout: fixed; width: 100%;">
     <tr style="border: none;">
       <td align="center" valign="middle" width="50%" style="border: none;">
