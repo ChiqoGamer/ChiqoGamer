@@ -24,17 +24,20 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZsZGxtYmNwYjBpMWtsYjNsZ2twd2lnaWdlcTFoZTYzNnhoZTB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJ3eGg1OXM5Ynh6aWRxdTRsNm9lejJyaWtiMTE2MnR4MDV1cDN5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/19eB0RWAzSYayHoy9z/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+Soy Técnico Universitario en Programación, recibido en la UTN FRGP. Actualmente estoy ampliando mis conocimientos en desarrollo front-end y back-end, además de estar creando un microemprendimiento junto a varios compañeros de la facultad, que brinda soluciones tecnológicas.
+Me apasiona aprender y construir proyectos nuevos, productivos, innovadores y creativos.
+
+- 🌱 Actualmente estoy aprendiendo
+  - React
+  - Diseño UX/UI
+    
+- 👾 Me gustaría colaborar en proyectos de código abierto
+- ✔ No dudes en consultarme cualquier duda, ¡estaré encantado de ayudarte!
+- 🎯 Fuera del mundo tecnológico
+- 💚 Me encanta hacer deporte, 🎮 jugar videojuegos y 🎵 escuchar música 
+- 📫 Contacto: <a href="joel.programador@hotmail.com">joel.programador@hotmail.com</a>
 
 ## My Skills Include
 
@@ -98,10 +101,12 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiqoGamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="400" height="250"/>
- &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight&hide_border=true" width="400" height="250"/>
-</p
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiqoGamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+       align="middle" width="400" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight&hide_border=true"
+       align="middle" width="400" />
+</p>
 
 
 
