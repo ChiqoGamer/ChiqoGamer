@@ -102,23 +102,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight" />
 </p
 
-<!--<p align="center">
-  <table cellspacing="0" cellpadding="0" style="border: none; table-layout: fixed; width: 100%;">
-    <tr style="border: none;">
-      <td align="center" valign="middle" width="50%" style="border: none;">
-        <a href="https://github.com/ChiqoGamer">
-          <img src="https://github-readme-stats.vercel.app/api?username=ChiqoGamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-        </a>
-      </td>
-      <td align="center" valign="middle" width="50%" style="border: none;">
-        <a href="https://github.com/ChiqoGamer">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
 
 
 
