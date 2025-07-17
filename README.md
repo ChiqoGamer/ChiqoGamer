@@ -17,6 +17,8 @@
 * Scripts en PowerShell para automatizar procesos.
 ---
  <!-- -->
+ <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center"><b> Joel Moran | Desarrollador de Software </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J3cDQya2oydjlqbzJ4b3NlZTZmMjVjcmo3cjAyd2ZsaHh6ZTAybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1AviNqe7qnuipvq8Pq/giphy.gif" width="50"></h1>
 
@@ -93,8 +95,27 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </a>
 
 
-<h2>Github stats:</h2> 
+<h2>GitHub Stats</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=ChiqoGamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ChiqoGamer)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight)](https://github.com/ChiqoGamer)
-</div>
+<p align="center">
+  <table cellspacing="0" cellpadding="0" style="border: none; table-layout: fixed; width: 100%;">
+    <tr style="border: none;">
+      <td align="center" valign="middle" width="50%" style="border: none;">
+        <a href="https://github.com/ChiqoGamer">
+          <img src="https://github-readme-stats.vercel.app/api?username=ChiqoGamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+        </a>
+      </td>
+      <td align="center" valign="middle" width="50%" style="border: none;">
+        <a href="https://github.com/ChiqoGamer">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
