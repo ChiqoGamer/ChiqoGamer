@@ -1,22 +1,3 @@
-<!--## Joel Moran | Desarrollador de Software 💯
-
-### Tecnico Universitario en Programación y Ayudante de Cátedra de Programación en C++.
-
-####  ¿En qué me especializo? 🧐
-* Aplicaciones de escritorio y web sobre .NET Framework con C#.
-* Scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos. 
- 
-#### Proyectos en progreso 🚀
-* Blog personal sobre programación.
-
-
-#### Me gusta experimentar y desarrollar: ⬇️
-* Aplicaciones web con Astro 🪐
-* Plugins de juegos con Java ☕
-* Programas de consola con fines educativos en C++🔵
-* Scripts en PowerShell para automatizar procesos.
----
- <!-- -->
  <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -50,24 +31,6 @@ Me apasiona aprender y construir proyectos nuevos, productivos, innovadores y cr
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-%235C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </span>
-<!--h1 without bottom border-->
-
-<!-- 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div> -->
-<!--tech stack icons-->
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,c,java,mysql,git,github,vscode,visualstudio,dotnet,discord,figma,linux&perline=14" />
-  </a>
-</p>
--->
-
-
 
 <h4> Other Tools and Technologies </h4>
 <span>
@@ -93,7 +56,7 @@ Me apasiona aprender y construir proyectos nuevos, productivos, innovadores y cr
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </a>
-<a href="https://discord.com/" >
+<a href="https://discord.com/channels/@me" >
   <img src="https://img.shields.io/badge/ChiqoGamer-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
@@ -107,8 +70,6 @@ Me apasiona aprender y construir proyectos nuevos, productivos, innovadores y cr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiqoGamer&theme=material-palenight&hide_border=true"
        align="middle" width="400" />
 </p>
-
-
 
 
 <!--horizontal divider(gradiant)-->
